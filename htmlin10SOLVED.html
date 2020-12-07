@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Queenscript Tutorials | HTML In 10 Minutes!</title>
+    <!-- Latest compiled and minified CSS -->
+    
+     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+     <meta name="description" content="">
+     <meta name="author" content="">
+     
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+     <!-- EXPLAIN LINES BELOW -->
+     <style>
+       ul, li, a{
+         list-style: none;
+         text-decoration: none;
+         font-size: 1rem;
+         color:rgb(1, 34, 1);
+         padding: 0;
+
+        }
+        .imgtab{
+          width: 50%;
+        }
+        table, th, td {
+          border: 3px solid rgb(21, 70, 0);
+          border-collapse: collapse;
+        }
+        th, td {
+          padding: 5px;
+          text-align: left;
+        }
+        *{
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+     </style>
+</head>
+<body style="min-height: auto; display: flex; flex-direction: column; margin:0;">
+  <section style="text-transform: uppercase; height: 100px; background-image:url('https://images.unsplash.com/photo-1604689598793-b8bf1dc445a1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjV8fHN0b2Nrc3xlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60'); " >
+    <span style="font-size: large; background: #0f400796; color:white;justify-content: center; font-weight: 900; backdrop-filter: blur(1px); display: flex; align-items: center; text-transform: uppercase; position: absolute; height: 100px; width: 100%; z-index: 1;">
+      The Budget Buddy   
+    </span>
+  </section>
+  <nav style="height: auto; margin:0;  display: flex; flex-direction: row; justify-content: center; background-color: rgb(229 247 229); position: sticky; top: 0;">
+      <ul style="list-style: none; display: flex; text-decoration: none; align-content: center; padding: 0;">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home </a>
+        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <li class="nav-item">
+          <a class="nav-link" href="#invest">Investments</a>
+        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#strategy">Strategies</a>
+        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#notes">Notes</a>
+        </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </ul>
+  </nav>
+    <main role="main" style="padding: 20px; display: flex; flex-direction: column; margin:0;">
+    <h2>My Monthly Budget</h2>
+      <table style="width:100%">
+        <tr>
+          <th>Name</th>
+          <th> Average Monthly Spend</th>
+          <th> Average Monthly Income</th>
+        </tr>
+        <tr>
+          <td>Billina Gates</td>
+          <td>$2,000</td>
+          <td>$6,000</td>
+        </tr>
+     </table>
+
+      <div style="margin: 0 0 20px;"id="invest"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <h2>My Monthly Investments</h2>
+      <table>
+        
+        <tbody>
+          <tr>
+            <th id="h1"> Cell Phone
+            </th>
+            <td> $50</td>
+           
+          </tr>
+          <tr>
+            <th id="h2"> Subscriptions
+            </th>
+            <td> $500</td>
+          </tr>
+          <tr>
+            <th id="h2"> Rent
+            </th>
+            <td> $1,500</td>
+          </tr>
+          <tr>
+            <th id="h2"> Gym
+            </th>
+            <td> $200</td>
+          </tr>
+
+
+        </tbody>
+      </table>
+           <div style="margin: 0 0 20px;"id="strategy"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <h2>My Future Strategies</h2>
+     <table>
+        <tbody>
+          <tr>
+            <th id="h1">Stock 1
+            </th>
+            <th id="h2">Stock 2
+            </th>
+          </tr>
+          <tr>
+            <td> Gains: 5%</td>
+            <td> Gains: 5%</td>
+          </tr>
+        </tbody>
+      </table>
+      <div style="margin: 0 0 20px;"id="notes"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+      <h2>My Notes</h2>
+      <table>
+        <tbody>
+          <tr>
+            <th id="h1">test
+            </th>
+            <th id="h2">test
+            </th>
+          </tr>
+          <tr>
+            <td> test</td>
+            <td> test</td>
+          </tr>
+        </tbody>
+      </table>
+      <table>
+        <tbody>
+          <tr>
+            <th id="h1">test
+            </th>
+            <th id="h2">test
+            </th>
+          </tr>
+          <tr>
+            <td> test</td>
+            <td> test</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2>My Financial Goals</h2>
+      <table>
+        <tbody>
+          <tr>
+            <th id="h1">test
+            </th>
+            <th id="h2">test
+            </th>
+          </tr>
+          <tr>
+            <td> test</td>
+            <td> test</td>
+          </tr>
+        </tbody>
+      </table>
+        <table>
+        <tbody>
+          <tr>
+            <th id="h1">test
+            </th>
+            <th id="h2">test
+            </th>
+          </tr>
+          <tr>
+            <td> test</td>
+            <td> test</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2>My Income Streams</h2>
+      <table>
+        <tbody>
+          <tr>
+            <th id="h1">test
+            </th>
+            <th id="h2">test
+            </th>
+          </tr>
+          <tr>
+            <td> test</td>
+            <td> test</td>
+          </tr>
+        </tbody>
+      </table>
+      <table>
+        <tbody>
+          <tr>
+            <th id="h1">test
+            </th>
+            <th id="h2">test
+            </th>
+          </tr>
+          <tr>
+            <td> test</td>
+            <td> test</td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+    <footer class="footer" style="bottom: 0; width: 100%; background: #28a745; color: white;">
+    
+      <!-- Grid row -->
+      <div style="padding: 10px;">
+  
+        <!-- Grid column -->
+        <div class="col-md-12">
+  
+          <!-- Content -->
+          <h5 class="text-uppercase">Visit <a rel="noopener noreferrer" target="_blank" href="http://www.financialme.com">FinancialMe.com</a></h5>
+          <p>Learn more. </p>
+  
+        </div>
+        <!-- Grid column -->
+        
+        <div  style="display: flex; flex-direction: row;">
+    <!-- Grid column -->
+    <div class="col-6" >
+        
+      <!-- Links -->
+      <h5 class="text-uppercase">Links</h5>
+
+      <ul class="list-unstyled">
+        <li>
+          <a href="#!">Link 1</a>
+        </li>
+        <li>
+          <a href="#!">Link 2</a>
+        </li>
+        <li>
+          <a href="#!">Link 3</a>
+        </li>
+        <li>
+          <a href="#!">Link 4</a>
+        </li>
+      </ul>
+
+    </div>
+
+    <div class="col-6">
+
+      <!-- Links -->
+      <h5 class="text-uppercase">Links</h5>
+
+      <ul class="list-unstyled">
+        <li>
+          <a href="#!">Link 1</a>
+        </li>
+        <li>
+          <a href="#!">Link 2</a>
+        </li>
+        <li>
+          <a href="#!">Link 3</a>
+        </li>
+        <li>
+          <a href="#!">Link 4</a>
+        </li>
+      </ul>
+
+    </div>
+    <!-- Grid column -->
+      </div>
+      </div>
+  </footer>
+</body>
+</html>
