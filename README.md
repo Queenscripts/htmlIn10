@@ -8,7 +8,6 @@ Checkout my blog at queenscript.com for more musings on coding.
 * ►►► Eloquent Javascript https://amzn.to/36AoEAN 
 * ►►► Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages https://amzn.to/33HDjbL 
 
-~
 #### Join My Discord: 
 * https://discord.gg/mjghmXnR 
 
