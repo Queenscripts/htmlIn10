@@ -12,7 +12,6 @@ Checkout my blog at queenscript.com for more musings on coding.
 #### Join My Discord: 
 * https://discord.gg/mjghmXnR 
 
-~
 #### MY GEAR:
 
 * Laptop: https://amzn.to/2VzGwWf 
@@ -22,14 +21,12 @@ Checkout my blog at queenscript.com for more musings on coding.
 * Camera: https://amzn.to/2JCk0cN 
 * Gaming Headphones: https://amzn.to/37xG3cz 
 
-~
 #### FOLLOW ME:
 * Instagram: https://www.instagram.com/_queenscript
 * Twitter: https://twitter.com/queenscript
 * TikTok: @queenscript
 * Website: https://www.queenscript.com
 
-~
 For inquires and collaborations -
 * code@queenscript.com
 #myjourney #itsupport #webdeveloper
