@@ -10,26 +10,26 @@ Checkout my blog at queenscript.com for more musings on coding.
 
 ~
 #### Join My Discord: 
-https://discord.gg/mjghmXnR 
+* https://discord.gg/mjghmXnR 
 
 ~
 #### MY GEAR:
 
-Laptop: https://amzn.to/2VzGwWf 
-Wireless Keyboard + Mouse: https://amzn.to/2JLmXHE 
-Apple Trackpad: https://amzn.to/36DD3fx 
-Affordable Hard Drive: https://amzn.to/3lDyczs
-Camera: https://amzn.to/2JCk0cN 
-Gaming Headphones: https://amzn.to/37xG3cz 
+* Laptop: https://amzn.to/2VzGwWf 
+* Wireless Keyboard + Mouse: https://amzn.to/2JLmXHE 
+* Apple Trackpad: https://amzn.to/36DD3fx 
+* Affordable Hard Drive: https://amzn.to/3lDyczs
+* Camera: https://amzn.to/2JCk0cN 
+* Gaming Headphones: https://amzn.to/37xG3cz 
 
 ~
 #### FOLLOW ME:
-Instagram: https://www.instagram.com/_queenscript
-Twitter: https://twitter.com/queenscript
-TikTok: @queenscript
-Website: https://www.queenscript.com
+* Instagram: https://www.instagram.com/_queenscript
+* Twitter: https://twitter.com/queenscript
+* TikTok: @queenscript
+* Website: https://www.queenscript.com
 
 ~
 For inquires and collaborations -
-code@queenscript.com
+* code@queenscript.com
 #myjourney #itsupport #webdeveloper
