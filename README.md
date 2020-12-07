@@ -1,6 +1,6 @@
 # HTML Wireframe Site in 10 Minutes
 #### This repo higlights spending the next 10 minutes creating a simple one page website, complete with just HTML. We will rely on inline styles and eventually add Bootstrap, this will be in another video, so stay tuned to do all the aesthetic work. 
-### [Deployed site](https://queenscripts.github.io/htmlIn10/ target="_blank")
+### [Deployed site](https://queenscripts.github.io/htmlIn10/)
 Checkout my blog at queenscript.com for more musings on coding. 
 
 ► Recommended Reading:
