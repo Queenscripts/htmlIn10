@@ -1,5 +1,5 @@
 # HTML Wireframe Site in 10 Minutes
-### Today we will spend the next 10 minutes creating a simple one page website, complete with just HTML. We will rely on inline styles and eventually add Bootstrap, this will be in another video, so stay tuned to do all the aesthetic work. 
+#### Today we will spend the next 10 minutes creating a simple one page website, complete with just HTML. We will rely on inline styles and eventually add Bootstrap, this will be in another video, so stay tuned to do all the aesthetic work. 
 
 Checkout my blog at queenscript.com for more musings on coding. 
 
