@@ -4,9 +4,9 @@
 Checkout my blog at queenscript.com for more musings on coding. 
 
 ► Recommended Reading:
-►►► Web Design with HTML, CSS, JavaScript and jQuery Set https://amzn.to/39Dhg9F 
-►►► Eloquent Javascript https://amzn.to/36AoEAN 
-►►► Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages https://amzn.to/33HDjbL 
+* ►►► Web Design with HTML, CSS, JavaScript and jQuery Set https://amzn.to/39Dhg9F 
+* ►►► Eloquent Javascript https://amzn.to/36AoEAN 
+* ►►► Head First HTML and CSS: A Learner's Guide to Creating Standards-Based Web Pages https://amzn.to/33HDjbL 
 
 ~
 #### Join My Discord: 
